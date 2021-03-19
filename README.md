@@ -1,2 +1,2 @@
 # FacultyRecordFile
-UCC SP21 Research:
+UCC SP21 Research
